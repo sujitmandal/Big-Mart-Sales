@@ -2,9 +2,27 @@
 Big Mart Sales Prediction..
 
 
+
 ## Big Mart Sales Plot Output:
-1. Linear Regression
+
+1. Linear Regression 
 ![](https://github.com/sujitmandal/Big-Mart-Sales/blob/main/plot/linearRegression.png)
+
+2. Rdge Regression
+![](https://github.com/sujitmandal/Big-Mart-Sales/blob/main/plot/rdgeRegression.png)
+
+3. Decision Tree 
+![](https://github.com/sujitmandal/Big-Mart-Sales/blob/main/plot/decisionTree.png)
+
+4. Random Forest
+![](https://github.com/sujitmandal/Big-Mart-Sales/blob/main/plot/randomForest.png)
+
+4. Mean
+![](https://github.com/sujitmandal/Big-Mart-Sales/blob/main/plot/MeanValues.png)
+
+4. Standard Deviation
+![](https://github.com/sujitmandal/Big-Mart-Sales/blob/main/plot/SD.png)
+
 
 
 ## Requirement’s:
