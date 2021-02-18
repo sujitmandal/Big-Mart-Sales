@@ -2,8 +2,9 @@
 Big Mart Sales Prediction..
 
 
-## Big Mart Sales Prediction Output :
-![](https://github.com/sujitmandal/Data-Science/blob/master/Rainfall%20Prediction/output/ezgif.com-crop.gif)
+## Big Mart Sales Plot Output :
+# Linear Regression
+![](https://github.com/sujitmandal/Big-Mart-Sales/blob/main/plot/linearRegression.png)
 
 
 ## Requirement’s:
