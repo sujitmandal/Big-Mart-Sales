@@ -2,8 +2,8 @@
 Big Mart Sales Prediction..
 
 
-## Big Mart Sales Plot Output :
-# Linear Regression
+## Big Mart Sales Plot Output:
+1. Linear Regression
 ![](https://github.com/sujitmandal/Big-Mart-Sales/blob/main/plot/linearRegression.png)
 
 
