@@ -14,27 +14,19 @@ Step 4: python modelRun.py
 
 ## Big Mart Sales Plot Output:
 
-1. Linear Regression 
-![](https://github.com/sujitmandal/Big-Mart-Sales/blob/main/plot/LinearRegression/plot1.pdf)
+1. [Linear Regression](https://github.com/sujitmandal/Big-Mart-Sales/blob/main/plot/LinearRegression/plot1.pdf)
 
-2. Rdge Regression
-![](https://github.com/sujitmandal/Big-Mart-Sales/blob/main/plot/RdgeRegression/plot1.pdf)
+2. [Rdge Regression](https://github.com/sujitmandal/Big-Mart-Sales/blob/main/plot/RdgeRegression/plot1.pdf)
 
-3. Decision Tree 
-![](https://github.com/sujitmandal/Big-Mart-Sales/blob/main/plot/DecisionTree/plot1.pdf)
+3. [Decision Tree ](https://github.com/sujitmandal/Big-Mart-Sales/blob/main/plot/DecisionTree/plot1.pdf)
 
-4. Random Forest
-![](https://github.com/sujitmandal/Big-Mart-Sales/blob/main/plot/RandomForest/plot1.pdf)
+4. [Random Forest](https://github.com/sujitmandal/Big-Mart-Sales/blob/main/plot/RandomForest/plot1.pdf)
 
-4. Mean
-![](https://github.com/sujitmandal/Big-Mart-Sales/blob/main/plot/modelPerformance/Mean.pdf)
+5. [Mean](https://github.com/sujitmandal/Big-Mart-Sales/blob/main/plot/modelPerformance/Mean.pdf)
 
-4. Standard Deviation
-![](https://github.com/sujitmandal/Big-Mart-Sales/blob/main/plot/modelPerformance/Std.pdf)
+6. [Standard Deviation](https://github.com/sujitmandal/Big-Mart-Sales/blob/main/plot/modelPerformance/Std.pdf)
 
-4. Mean And Standard Deviation
-![](https://github.com/sujitmandal/Big-Mart-Sales/blob/main/plot/modelPerformance/MeanStd.pdf)
-
+7. [Mean And Standard Deviation](https://github.com/sujitmandal/Big-Mart-Sales/blob/main/plot/modelPerformance/MeanStd.pdf)
 
 
 ## Requirement’s:
