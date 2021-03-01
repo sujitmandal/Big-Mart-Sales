@@ -1,7 +1,14 @@
 ## Big-Mart-Sales
 Big Mart Sales Prediction..
 
+## How to Run
+```
+Step 1: git clone https://github.com/sujitmandal/Big-Mart-Sales.git
 
+Step 2: cd Big-Mart-Sales
+
+Step 3: python modelRun.py
+```
 
 ## Big Mart Sales Plot Output:
 

@@ -1,0 +1,1 @@
+{"mean": {"Random Forest": 0.5742006293571181, "Decision Tree": 0.5541274575688642, "Ridge Regression": 0.5521569543510771, "Linear Regression": 0.552311461223636}, "std": {"Random Forest": 0.042772200312788076, "Decision Tree": 0.04341917636001485, "Ridge Regression": 0.04028988647764896, "Linear Regression": 0.042508107846632906}}
