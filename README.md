@@ -5,30 +5,35 @@ Big Mart Sales Prediction..
 ```
 Step 1: git clone https://github.com/sujitmandal/Big-Mart-Sales.git
 
-Step 2: cd Big-Mart-Sales
+Step 2: pip install -r requirements.txt or pip3 install -r requirements.txt 
 
-Step 3: python modelRun.py
+Step 3: cd Big-Mart-Sales
+
+Step 4: python modelRun.py
 ```
 
 ## Big Mart Sales Plot Output:
 
 1. Linear Regression 
-![](https://github.com/sujitmandal/Big-Mart-Sales/blob/main/plot/linearRegression.png)
+![](https://github.com/sujitmandal/Big-Mart-Sales/blob/main/plot/LinearRegression/plot1.pdf)
 
 2. Rdge Regression
-![](https://github.com/sujitmandal/Big-Mart-Sales/blob/main/plot/rdgeRegression.png)
+![](https://github.com/sujitmandal/Big-Mart-Sales/blob/main/plot/RdgeRegression/plot1.pdf)
 
 3. Decision Tree 
-![](https://github.com/sujitmandal/Big-Mart-Sales/blob/main/plot/decisionTree.png)
+![](https://github.com/sujitmandal/Big-Mart-Sales/blob/main/plot/DecisionTree/plot1.pdf)
 
 4. Random Forest
-![](https://github.com/sujitmandal/Big-Mart-Sales/blob/main/plot/randomForest.png)
+![](https://github.com/sujitmandal/Big-Mart-Sales/blob/main/plot/RandomForest/plot1.pdf)
 
 4. Mean
-![](https://github.com/sujitmandal/Big-Mart-Sales/blob/main/plot/MeanValues.png)
+![](https://github.com/sujitmandal/Big-Mart-Sales/blob/main/plot/modelPerformance/Mean.pdf)
 
 4. Standard Deviation
-![](https://github.com/sujitmandal/Big-Mart-Sales/blob/main/plot/SD.png)
+![](https://github.com/sujitmandal/Big-Mart-Sales/blob/main/plot/modelPerformance/Std.pdf)
+
+4. Mean And Standard Deviation
+![](https://github.com/sujitmandal/Big-Mart-Sales/blob/main/plot/modelPerformance/MeanStd.pdf)
 
 
 
@@ -58,25 +63,14 @@ How to install | Python | | Anaconda | | Opencv library |
 
 ## Installing the required package’s:
 ```
-• pip install -q git+https://github.com/tensorflow/docs 
-
 • pip install scikit-learn
-
-• pip install scikit-image
 
 • pip install matplotlib
 
-• pip install tensorflow
-
 • pip install pandas
-
-• pip install seaborn
-
-• pip install keras
 
 • pip install numpy
 
-• pip install scipy
 ```
 
 ## License:
